@@ -13,7 +13,7 @@ Viata
 Cresterea vitezei
 Scaderea vitezei
 Inversarea axelor (stanga=dreapta, sus=jos si invers)
-   -      Pentru ultimele 3 tipuri, durata lor va fi una limitata, de aproximativ 5 secunde.
+         Pentru ultimele 3 tipuri, durata lor va fi una limitata, de aproximativ 5 secunde.
 
 
 De asemenea, fiecare runda contine 3 vieti.
