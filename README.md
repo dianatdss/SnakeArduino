@@ -27,3 +27,5 @@ Jocul se sfarseste in momentul in care jucatorul pierde cele 3 vieti.
 O viata se pierde daca sarpele se ‘musca’.
 
 In memoria eeprom se retine highscore-ul. In momentul in care se depaseste, la finalul jocului se afiseaza un mesaj. 
+
+Video: https://youtu.be/YGms9i4llm8
